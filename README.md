@@ -20,4 +20,4 @@ KronoKat is a task manager web application designed for efficient task creation 
 - You're all set to use KronoKat!
 
 ## Authors:
-KronoKat Task Manager was developed by Andrea Visani, Anugrah Rai, Hussein Majed.
+KronoKat Task Manager was developed by Anugrah Rai, Andrea Visani, Hussein Majed.
